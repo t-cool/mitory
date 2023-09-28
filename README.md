@@ -1,2 +1,4 @@
-# mitory2
-Created with CodeSandbox
+# mitory
+
+授業見取りツール
+
