@@ -6,19 +6,8 @@ import data from "./data";
 export default function App() {
   return (
     <div className="App">
-      <div style={{ width: "950px" }}>
-        <Chrono
-          items={data}
-          mode="VERTICAL"
-          cardHeight={300}
-          cardWidth={650}
-          mediaHeight={200}
-          scrollable={{ scrollbar: false }}
-          contentDetailsHeight={100}
-          fontSizes={{
-            title: "1rem"
-          }}
-        />
+      <div style={{ width: "100%", height: "800px" }}>
+        <Chrono items={data} mode="VERTICAL_ALTERNATING" />
       </div>
     </div>
   );
