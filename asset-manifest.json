@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mitory/static/css/main.133d0998.css",
+    "main.js": "/mitory/static/js/main.88e78a3c.js",
+    "index.html": "/mitory/index.html",
+    "main.133d0998.css.map": "/mitory/static/css/main.133d0998.css.map",
+    "main.88e78a3c.js.map": "/mitory/static/js/main.88e78a3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133d0998.css",
+    "static/js/main.88e78a3c.js"
+  ]
+}
